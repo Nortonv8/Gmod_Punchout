@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Gmod Punchout Content"
+	"version"	"1.0.0"
+	"up_date"	"18/01/13"
+	"author_name"	"Nortonv8"
+	"author_email"	"nortonv8@gmail.com"
+	"author_url"	"N/A"
+	
+	"info"		"The content for my gamemode, Gmod Punchout!!"
+}

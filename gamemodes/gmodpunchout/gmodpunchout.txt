@@ -1,0 +1,22 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Gmod Punch Out!!"
+	"maps"		"^gpo_"
+	"menusystem"	"1"
+	"workshopid"	"17356"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"gpo_maxperteam"
+			"text"		"Maximum Players Per Team"
+			"help"		"The maximum amount of players allowed in one team"
+			"type"		"numeric"
+			"default"	"1"
+		}
+
+	}
+
+}
